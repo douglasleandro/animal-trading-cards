@@ -1,7 +1,6 @@
 /* add your CSS here */
 h3 {
   margin: 0.5em;
-  padding: 0.5em
 }
 
 p {
@@ -19,20 +18,18 @@ span {
 }
 
 .picture {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 300px;
+  margin: 0.5em;
+  width: 300px;
 }
 
 #card {
   border: 1px solid #cccccc;
   box-shadow: 5px 5px #cccccc;
-  width: 350px;
+  width: 315px;
 }
 
 #description {
-  margin: 1.5em;
+  margin: 0.5em;
   padding: 0.5em;
   border: 1px solid #cccccc;
 }
