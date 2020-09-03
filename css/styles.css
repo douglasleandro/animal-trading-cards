@@ -1,0 +1,42 @@
+/* add your CSS here */
+h3 {
+  margin: 0.5em;
+  padding: 0.5em
+}
+
+p {
+  margin: 0.5em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0.5em;
+  padding: 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+#card {
+  border: 1px solid #cccccc;
+  box-shadow: 5px 5px #cccccc;
+  width: 350px;
+}
+
+#description {
+  margin: 1.5em;
+  padding: 0.5em;
+  border: 1px solid #cccccc;
+}
+
+#funfact {
+  font-style: italic;
+}
